@@ -1,9 +1,5 @@
 # DL - Twitter SQL Interview Question
 
-Created: January 18, 2024 3:25 PM
-Category: SQL
-Reviewed: No
-
 ## The Question
 
 This is the same question as problem #6 in the SQL Chapter of [Ace the Data Science Interview](https://amzn.to/3kF79Fx)!
