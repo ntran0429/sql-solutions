@@ -1,5 +1,16 @@
 # DL - LinkedIn SQL Interview Question
 
+## The Question
+
+Given a table of candidates and their skills, you're tasked with finding the candidates best suited for an open Data Science job. **You want to find candidates who are proficient in Python, Tableau, and PostgreSQL.**
+
+Write a query to list the candidates who possess all of the required skills for the job. Sort the output by candidate ID in ascending order.
+
+**Assumption:**
+
+- There are no duplicates in the `candidates` table.
+
+
 ## My Solution
 
 ```sql
@@ -30,15 +41,15 @@ AND skills LIKE '%PostgreSQL%'
 -- https://stackoverflow.com/questions/71149172/concatenate-distinct-values-in-a-group-by
 ```
 
-## The Question
+## My Thinking Process
+We'll start by using the IN operator to find candidates which have some of the required skills (the first CTE).
 
-Given a table of candidates and their skills, you're tasked with finding the candidates best suited for an open Data Science job. **You want to find candidates who are proficient in Python, Tableau, and PostgreSQL.**
+Then, we aggregate at the candidate level by concatenating their skills (the second CTE).
 
-Write a query to list the candidates who possess all of the required skills for the job. Sort the output by candidate ID in ascending order.
+Finally, we can search for the three required skills and figure out which candidates have all three (the final SELECT query).
 
-**Assumption:**
 
-- There are no duplicates in the `candidates` table.
+## The Data
 
 ### **`candidates` Table:**
 
