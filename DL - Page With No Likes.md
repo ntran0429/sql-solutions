@@ -1,9 +1,5 @@
 # DL - Page With No Likes
 
-Created: January 18, 2024 4:16 PM
-Category: SQL
-Reviewed: No
-
 ## The Question
 
 Assume you're given two tables containing data about Facebook Pages and their respective likes (as in "Like a Facebook Page").
