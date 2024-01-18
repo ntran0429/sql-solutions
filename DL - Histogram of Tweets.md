@@ -27,7 +27,7 @@ GROUP BY tweet_count
 
 ## My Thinking Process
 
-I use the subquery to group users by number of tweets they posted in 2022. The output is:
+I use a subquery to group users by number of tweets they posted in 2022. The output is:
 
 | user_id | tweet_count |
 | --- | --- |
