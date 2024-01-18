@@ -1,4 +1,4 @@
-# DL - Histogram of Tweets [Twitter SQL Interview Question]
+# DL - Histogram of Tweets
 
 ## The Question
 
