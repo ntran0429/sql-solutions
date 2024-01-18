@@ -1,9 +1,5 @@
 # DL - LinkedIn SQL Interview Question
 
-Created: January 18, 2024 3:19 PM
-Category: SQL
-Reviewed: No
-
 ```sql
 WITH skills AS 
 (
