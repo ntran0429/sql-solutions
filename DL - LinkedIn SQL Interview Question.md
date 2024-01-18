@@ -1,4 +1,4 @@
-# DL - LinkedIn SQL Interview Question
+# DL - Data Science Skills [LinkedIn SQL Interview Question]
 
 ## The Question
 
