@@ -1,8 +1,6 @@
 # DL - Laptop vs. Mobile Viewership
 
-Created: January 18, 2024 5:07 PM
-Category: SQL
-Reviewed: No
+
 
 ## The Question
 
