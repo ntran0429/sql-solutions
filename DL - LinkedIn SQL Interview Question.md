@@ -48,9 +48,14 @@ Then, we aggregate at the candidate level by concatenating their skills (the sec
 
 Finally, we can search for the three required skills and figure out which candidates have all three (the final SELECT query).
 
+The final output:
+| candidate_id |
+| --- |
+| 123 |
+| 147 |
 
 ## The Data
-
+ 
 ### **`candidates` Table:**
 
 | Column Name | Type |
