@@ -31,7 +31,7 @@ We use CASE WHEN to label where the record is type laptop or mobile.
 
 We use SUM to sum up the view count for each device type.
 
-The final output is
+The final output is:
 
 | laptop_views | mobile_views |
 | --- | --- |
