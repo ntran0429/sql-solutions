@@ -1,5 +1,7 @@
 # DL - LinkedIn SQL Interview Question
 
+## My Solution
+
 ```sql
 WITH skills AS 
 (
@@ -27,7 +29,9 @@ AND skills LIKE '%PostgreSQL%'
 -- STRING_AGG ( expression, separator [order_by_clause] )
 -- https://stackoverflow.com/questions/71149172/concatenate-distinct-values-in-a-group-by
 ```
-\
+
+## The Question
+
 Given a table of candidates and their skills, you're tasked with finding the candidates best suited for an open Data Science job. **You want to find candidates who are proficient in Python, Tableau, and PostgreSQL.**
 
 Write a query to list the candidates who possess all of the required skills for the job. Sort the output by candidate ID in ascending order.
