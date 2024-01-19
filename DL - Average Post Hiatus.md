@@ -44,7 +44,7 @@ GROUP BY A.user_id
 -- AND user_id IN('151652','661093')
 ```
 
-A cleaner code is achieved with HAVING to filter for users with at least two post:
+A cleaner code is achieved with HAVING to filter for users with at least two posts:
 
 ```sql
 SELECT 
