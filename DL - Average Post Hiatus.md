@@ -56,7 +56,7 @@ GROUP BY user_id
 HAVING COUNT(post_id)>1;
 ```
 
-## My Thinking Process
+## My Thought Process
 
 First, filter for user ids with at least two posts. I achieve this with two CTEs.
 
