@@ -21,7 +21,7 @@ SUM(CASE WHEN device_type = 'laptop' THEN 1 ELSE 0 END)
 FROM viewership
 ```
 
-## My Thinking Process
+## My Thought Process
 
 We want to have the fields as laptop_views and mobile_views, each with their corresponding value.
 
