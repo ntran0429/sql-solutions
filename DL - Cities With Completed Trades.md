@@ -1,8 +1,6 @@
 # DL - Cities With Completed Trades
 
-Created: January 19, 2024 10:11 PM
-Category: SQL
-Reviewed: No
+
 
 ## The Question
 
