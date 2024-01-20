@@ -1,5 +1,5 @@
 # sql-solutions
-This repo contains solutions for SQL problems on DataLemur, StrataScratch, etc. with my own explanations and thinking process.
+This repo contains solutions for SQL problems on DataLemur, StrataScratch, etc. with my own explanations and thought process.
 
 DL stands for DataLemur.
 
