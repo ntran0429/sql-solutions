@@ -1,8 +1,6 @@
 # DL - Average Post Hiatus
 
-Created: January 19, 2024 12:52 AM
-Category: SQL
-Reviewed: No
+
 
 ## The Question
 
