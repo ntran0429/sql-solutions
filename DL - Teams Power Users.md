@@ -1,8 +1,6 @@
 # DL - Teams Power Users
 
-Created: January 19, 2024 8:38 PM
-Category: SQL
-Reviewed: No
+
 
 ## The Question
 
