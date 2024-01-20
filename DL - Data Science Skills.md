@@ -41,7 +41,7 @@ AND skills LIKE '%PostgreSQL%'
 -- https://stackoverflow.com/questions/71149172/concatenate-distinct-values-in-a-group-by
 ```
 
-## My Thinking Process
+## My Thought Process
 We'll start by using the IN operator to find candidates which have some of the required skills (the first CTE).
 
 Then, we aggregate at the candidate level by concatenating their skills (the second CTE).
