@@ -1,8 +1,6 @@
 # DL - Duplicate Job Listings
 
-Created: January 19, 2024 9:56 PM
-Category: SQL
-Reviewed: No
+
 
 ## The Question
 
