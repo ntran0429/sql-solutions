@@ -1,8 +1,6 @@
 # DL - App Click-through Rate (CTR)
 
-Created: January 19, 2024 10:45 PM
-Category: SQL
-Reviewed: No
+
 
 ## The Question
 
