@@ -18,7 +18,7 @@ WHERE B.page_id IS NULL
 ORDER BY A.page_id
 ```
 
-## My Thinking Process
+## My Thought Process
 
 I comprehend that ‘page_likes’ table only contains page ids with likes. In other words, pages without likes do not have their ids in this table. So I perform a LEFT JOIN to preserve the records in ‘pages’ table, leaving some nulls in the page_id field of ‘page_likes’:
 
