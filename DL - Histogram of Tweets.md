@@ -25,7 +25,7 @@ FROM (
 GROUP BY tweet_count
 ```
 
-## My Thinking Process
+## My Thought Process
 
 I use a subquery to group users by number of tweets they posted in 2022. The output is:
 
