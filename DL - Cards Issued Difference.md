@@ -38,7 +38,7 @@ FROM max_min
 ORDER BY max - min DESC
 ```
 
-I made an unnecessary CTE total_issues, a cleaner SQL query is below:
+I made an unnecessary use of CTEs, a cleaner SQL query is below:
 
 ```sql
 SELECT
