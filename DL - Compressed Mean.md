@@ -35,7 +35,7 @@ FROM items_per_order;
 
 ## My Thought Process
 
-mean number of items per order = 1*w1 + 2*w2 + 3*w3 + ... + 9*w9
+mean number of items per order = 1 * w1 + 2 * w2 + 3 * w3 + ... + 9 * w9
 calculate the weights first, then compute the sum product
 
 another way is 
